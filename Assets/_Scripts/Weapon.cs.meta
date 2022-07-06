@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 5c508d30ae1a1d947896101a1e15b42d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {instanceID: 0}
+  - adaga: {fileID: 21300000, guid: 8722a9f7cb0a3e74ba6aa071ad1531c2, type: 3}
+  - chaveFenda: {fileID: 21300000, guid: a9ef76854927965449d818bda4b16161, type: 3}
+  - cogumelo: {fileID: 21300000, guid: 9304c44fa8c761541b51ca3f2f391097, type: 3}
+  - faca: {fileID: 21300000, guid: 087f661b455387346950ce616a25bf79, type: 3}
+  - machado: {fileID: 21300000, guid: c6da99fa8850c7149baff89de1acb6ea, type: 3}
+  - martelo: {fileID: 21300000, guid: 1b3af2cbbec43cb4b8a3324a30f089d7, type: 3}
+  - pistola: {fileID: 21300000, guid: caf75f8953b9bce478b2a1c6685a9122, type: 3}
+  - presa: {fileID: 21300000, guid: 496c0a4cf9c47e94bb739b669d2dfc9b, type: 3}
+  - revolver: {fileID: 21300000, guid: 0cab43dde76a0ba4182687589ed2d7b3, type: 3}
+  - sacola: {fileID: 21300000, guid: e4f26573aab87e44ca4745e8f6043862, type: 3}
+  - serrote: {fileID: 21300000, guid: b90469b3b5b22644ca331c37145d3136, type: 3}
+  - tesoura: {fileID: 21300000, guid: 8e41c459a558067468476e7fe1b5198b, type: 3}
+  - travesseiro: {fileID: 21300000, guid: 965abba9895a50840b1346ff78cbaa9d, type: 3}
+  - veneno: {fileID: 21300000, guid: 662ba83e842997247a47c2c9e848c22b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
